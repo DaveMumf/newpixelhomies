@@ -3,8 +3,8 @@
 #### 1. Clone repo
 
 ```
-git clone https://github.com/issaafalkattan/react-landing-page-template-2021.git
-cd react-landing-page-template-2021
+git clone https://github.com/...
+cd ...
 yarn
 ```
 
